@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wylies8)
 
 
-I'm a Ui Engineer from Philadelphia,Pa with way too many domain names and not enough time. 
+I'm a UI Engineer from Philadelphia,Pa with way too many domain names and not enough time. 
 
 ### Talking about Personal Stuffs:
 
