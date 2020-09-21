@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## Hey 👋, I'm [Sarah](https://github.com/wylie-s/)
 
