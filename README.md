@@ -12,5 +12,4 @@ I'm a UI Engineer from Philadelphia,Pa with way too many domain names and not en
 
 - 🛠 &nbsp; I’m currently working with React,Graphql, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning about Accessibility.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wylie-s).
-- 📫 &nbsp; How to reach me: s.wylie43@gmail.com
+- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/wylie-s).
